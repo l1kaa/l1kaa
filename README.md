@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=l1kaa&style=flat-square)
+
 
 <!--
 **l1kaa/l1kaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
