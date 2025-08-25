@@ -1,5 +1,4 @@
-![](https://komarev.com/ghpvc/?username=l1kaa)
-![](https://komarev.com/ghpvc/?username=l1kaae&color=0d1b2a=for-the-badge)
+![](https://komarev.com/ghpvc/?username=l1kaa&style=flat-square)
 
 <!--
 **l1kaa/l1kaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
