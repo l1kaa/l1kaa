@@ -1,6 +1,10 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="40px" />
 </h1>
+<img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="40px" />
+<img src="https://raw.githubusercontent.com/filipedeschamps/hand-shake-animated/main/hand.gif" width="45" />
+<img src="https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/main/assets/Hi.gif" width="35px" />
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
 
 <h1 align="center">👋 Hello, I am Lika</h1>
 <h3 align="center">Front-End Developer | Educator | Lifelong Learner</h3>
