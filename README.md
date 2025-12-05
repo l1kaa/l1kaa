@@ -1,10 +1,5 @@
 <h1 align="center">👋 Hello, I am Lika</h1>
-<h3 align="center">Front-End Developer | Lifelong Learner | Educator</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=likachx&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
+<h3 align="center">Front-End Developer | Educator | Lifelong Learner </h3>
 ---
 
 ## 🌟 About Me
