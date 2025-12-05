@@ -1,16 +1,29 @@
+<h1 align="center">👋 Hello, I am Lika</h1>
+<h3 align="center">Front-End Developer | Lifelong Learner | Educator</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=likachx&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<!--
-**l1kaa/l1kaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a dedicated **Front-End Developer** who takes great pleasure in continuous learning and in sharing that knowledge with others.  
+My enthusiasm for growth leads me to explore new technologies daily, while my passion for teaching encourages me to help others advance on their own learning journeys.
+
+---
+
+## 🚀 Tech Stack
+
+### **Front-End Development**
+- 💻 HTML | CSS | JavaScript  
+- 🎨 Tailwind | SCSS  
+- ⚛️ React  
+- 🌐 Responsive Design  
+
+### **Tools & Workflow**
+- 🛠 VS Code  
+- 🔧 Git & GitHub  
+- 🧩 REST APIs  
+- 🎯 UI/UX Principles  
