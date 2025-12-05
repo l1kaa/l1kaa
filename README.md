@@ -14,7 +14,8 @@ My enthusiasm for growth leads me to explore new technologies daily, while my pa
 
 ## 🚀 I Specialize In
 
-### **Front-End Development**
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=61DAFB&width=400&lines=Front-End+Development" style="display:block;margin-bottom:8px;" />
+
 - 💻 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="vertical-align:middle" />  
 - 🎨 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="vertical-align:middle" />  
 - ⚛️ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="vertical-align:middle" />  
@@ -22,16 +23,24 @@ My enthusiasm for growth leads me to explore new technologies daily, while my pa
 - 📱 Responsive & Interactive Design  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=500&color=61DAFB&width=400&lines=Responsive+%26+Interactive+Design" style="display:block;margin-top:4px;" />
 
-### **App Development**
+---
+
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=FF6F61&width=400&lines=App+Development" style="display:block;margin-bottom:8px;" />
+
 - 🖥 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" style="vertical-align:middle" />  
 - 🛠 <img src="https://img.shields.io/badge/MIT_App_Inventor-FF6F61?style=for-the-badge&logo=appveyor&logoColor=white" style="vertical-align:middle" />  
 - 💡 General App Dev Concepts  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=500&color=FF6F61&width=400&lines=App+Concepts+%26+Development" style="display:block;margin-top:4px;" />
 
-### **Tools & Workflow**
+---
+
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=FFD700&width=400&lines=Tools+%26+Workflow" style="display:block;margin-bottom:8px;" />
+
 - 🛠 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="vertical-align:middle" />  
 - 🔧 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="vertical-align:middle" />  
-- 🧩 ![API Badge](https://img.shields.io/badge/API-REST-blue?style=for-the-badge)  
+- 🧩 REST APIs  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=500&color=FFD700&width=400&lines=API+%26+REST+Development" style="display:block;margin-top:4px;" />  
 - 🎯 UI/UX Principles & Best Practices  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=500&color=FFD700&width=400&lines=UI%2FUX+Principles+%26+Best+Practices" style="display:block;margin-top:4px;" />
+
 
