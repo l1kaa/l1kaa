@@ -14,7 +14,7 @@ My enthusiasm for growth leads me to explore new technologies daily, while my pa
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 I Specialize In
 
 ### **Front-End Development**
 - 💻 HTML | CSS | JavaScript  
