@@ -21,7 +21,6 @@ My enthusiasm for growth leads me to explore new technologies daily, while my pa
 - ⚛️ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="vertical-align:middle" />  
 - 🌐 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" style="vertical-align:middle" />  
 - 📱 Responsive & Interactive Design  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=500&color=61DAFB&width=400&lines=Responsive+%26+Interactive+Design" style="display:block;margin-top:4px;" />
 
 ---
 
@@ -30,7 +29,6 @@ My enthusiasm for growth leads me to explore new technologies daily, while my pa
 - 🖥 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" style="vertical-align:middle" />  
 - 🛠 <img src="https://img.shields.io/badge/MIT_App_Inventor-FF6F61?style=for-the-badge&logo=appveyor&logoColor=white" style="vertical-align:middle" />  
 - 💡 General App Dev Concepts  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=500&color=FF6F61&width=400&lines=App+Concepts+%26+Development" style="display:block;margin-top:4px;" />
 
 ---
 
@@ -41,6 +39,5 @@ My enthusiasm for growth leads me to explore new technologies daily, while my pa
 - 🧩 REST APIs  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=500&color=FFD700&width=400&lines=API+%26+REST+Development" style="display:block;margin-top:4px;" />  
 - 🎯 UI/UX Principles & Best Practices  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=500&color=FFD700&width=400&lines=UI%2FUX+Principles+%26+Best+Practices" style="display:block;margin-top:4px;" />
 
 
