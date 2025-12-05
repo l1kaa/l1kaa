@@ -31,8 +31,7 @@ My enthusiasm for growth leads me to explore new technologies daily, while my pa
 ### **Tools & Workflow**
 - 🛠 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="vertical-align:middle" />  
 - 🔧 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="vertical-align:middle" />  
-- 🧩 REST APIs  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=500&color=FFD700&width=400&lines=API+%26+REST+Development" style="display:block;margin-top:4px;" />  
+- 🧩 ![API Badge](https://img.shields.io/badge/API-REST-blue?style=for-the-badge)  
 - 🎯 UI/UX Principles & Best Practices  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=500&color=FFD700&width=400&lines=UI%2FUX+Principles+%26+Best+Practices" style="display:block;margin-top:4px;" />
 
