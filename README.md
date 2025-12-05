@@ -14,6 +14,7 @@ My enthusiasm for growth leads me to explore new technologies daily, while my pa
 
 ## 🚀 I Specialize In
 
+
 ### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=61DAFB&width=400&lines=Front-End+Development" style="display:block;margin-bottom:8px;" />
 
 - 💻 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="vertical-align:middle" />  
