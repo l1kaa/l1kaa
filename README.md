@@ -1,3 +1,4 @@
+<h1 align="center">👋</h1>
 <h1 align="center">👋 Hello, I am Lika</h1>
 <h3 align="center">Front-End Developer | Educator | Lifelong Learner</h3>
 
