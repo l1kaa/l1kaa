@@ -8,7 +8,7 @@
 I am a dedicated **Front-End Developer** who takes great pleasure in continuous learning and in sharing that knowledge with others.  
 My enthusiasm for growth leads me to explore new technologies daily, while my passion for mentoring encourages me to help others advance on their own learning journeys.  
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=61DAFB&width=600&lines=Learning+%F0%9F%92%AB+Mentoring+%E2%9D%A4%EF%B8%8F+Building+Projects+%F0%9F%9A%80" style="display:block;margin-top:4px;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=61DAFB&width=600&lines=Learning+%F0%9F%92%AB+Mentoring+%F0%9F%96%A4+Building+Projects+%F0%9F%9A%80" style="display:block;margin-top:4px;" />
 
 ---
 
@@ -34,6 +34,9 @@ My enthusiasm for growth leads me to explore new technologies daily, while my pa
 
 ### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=FFD700&width=400&lines=Tools+%26+Workflow" style="display:block;margin-bottom:8px;" />
 
-- 🛠 <img src="https://img.shields.io/bad
+- 🛠 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="vertical-align:middle" />  
+- 🔧 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="vertical-align:middle" />  
+- 🧩 ![API Badge](https://img.shields.io/badge/API-REST-blue?style=for-the-badge)  
+- 🎯 UI/UX Principles & Best Practices  
 
 
